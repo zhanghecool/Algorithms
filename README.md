@@ -1,2 +1,2 @@
-# Algorithms
-:shipit: 算法集（Typescript）
+# DataStructures-Algorithms
+:shipit: 数据结构与算法
